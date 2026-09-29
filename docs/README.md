@@ -1,7 +1,7 @@
 # 🍕 Smart Restaurant Ordering Assistant
 
 A complete AI-powered restaurant ordering system that processes natural language orders using Flask, Firebase Firestore, and advanced NLP techniques.
-
+   
 ## 📋 Table of Contents
 
 - [Features](#features)
